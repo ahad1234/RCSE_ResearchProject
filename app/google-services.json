@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "779847274626",
+    "firebase_url": "https://proveofconcept-72d30.firebaseio.com",
+    "project_id": "proveofconcept-72d30",
+    "storage_bucket": "proveofconcept-72d30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779847274626:android:a043e18415050b4e",
+        "android_client_info": {
+          "package_name": "my.project.proveofconcept"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779847274626-ri1im5b3k3pvicsbf8aejacqsieulapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5OhMLz9pUPVxkPA2tjwuMLHAW0y12eZI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

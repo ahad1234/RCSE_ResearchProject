@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Prove Of Concept</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="file_name">Pick a test&#8230;</string>
+    <string name="btn_load_test">Load test and run!</string>
+    <string name="btn_change_text">Change Text</string>
+    <string name="changeable_text">I\'m the famous changing text!</string>
+    <string name="tf_change">Change me!</string>
+    <string name="btn_change_fragment">Switch Fragment!</string>
+    <string name="file_chooser_title">Pick a test archive (.zip)</string>
+    <string name="file_select_error">You must choose a valid file!</string>
+    <string name="cancel">Cancel</string>
+    <string name="select">Select</string>
+</resources>
